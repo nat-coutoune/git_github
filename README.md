@@ -8,7 +8,7 @@ Material de uma aula introdutória de **Git e GitHub para estudantes de bioinfor
 
 | Arquivo | O que é |
 |---|---|
-| [`aula-git-github.pptx`](aula-git-github.pptx) | Apresentação da aula (35 slides, com notas para quem apresenta) |
+| [`aula-git-github.pptx`](aula-git-github.pdf) | Apresentação da aula (35 slides, com notas para quem apresenta) |
 | [`aula_git_github_bioinfo.ipynb`](aula_git_github_bioinfo.ipynb) | Caderno prático para o Google Colab, com seções de github.dev e GitHub Codespaces |
 | [`cola-git-github.md`](cola-git-github.md) | Cola de comandos para consultar durante e depois da aula |
 
