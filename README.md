@@ -23,8 +23,8 @@ Material de uma aula introdutória de **Git e GitHub para estudantes de bioinfor
 - Criar branches, fazer merge e resolver conflitos
 - Abrir um **Pull Request** a partir de um fork
 - Desfazer os erros mais comuns sem perder trabalho
+- Como organizar uma pasta com um exemplo usado em toda a aula, como um mini projeto   
 
-O exemplo usado em toda a aula é um mini projeto.
 ---
 
 
@@ -63,6 +63,6 @@ O exemplo usado em toda a aula é um mini projeto.
 
 ## 👩‍🏫 Autoria
 
-Material preparado com :yellow_heart: pelas PyLadies [Dra. Natalia Coutouné](nat.coutoune@gmail.com), [MSc. Juliana Félix](juliana.felix@unesp.br) e [MSc. Wendy Abregu](tabregu70@gmail.com). Nossos agradecimentos especiais à [Dra. Bruna Pierick](https://www.vibtrainingandconferences.be/trainer/bruna-piereck) que nos ajudou a criar e ordenar o conhecimento para este tópico num treinamento prévio :blue_heart:. 
+Material preparado com :yellow_heart: pelas PyLadies [Dra. Natalia Coutouné](nat.coutoune@gmail.com), [MSc. Juliana Félix](juliana.felix@unesp.br) e [MSc. Wendy Abregu](tabregu70@gmail.com). Nossos agradecimentos especiais à [Dra. Bruna Piereck](https://www.vibtrainingandconferences.be/trainer/bruna-piereck) que nos ajudou a criar e ordenar o conhecimento para este tópico num treinamento prévio :blue_heart:. 
 
 Dúvidas e sugestões são bem-vindas: abra uma [Issue](../../issues) ou mande um Pull Request 💬
