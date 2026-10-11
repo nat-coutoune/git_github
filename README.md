@@ -2,8 +2,6 @@
 
 Material de uma aula introdutória de **Git e GitHub para estudantes de bioinformática**, com teoria e prática. Cada passo é feito de dois jeitos: **no terminal** e **no VS Code**.
 
-> Do zero ao primeiro Pull Request em até 4 horas 🧬
-
 ---
 
 ## 📂 O que tem aqui
