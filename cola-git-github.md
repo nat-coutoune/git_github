@@ -352,5 +352,3 @@ git push --set-upstream origin NC_teste
 - Oh Shit, Git!? (consertando erros): https://ohshitgit.com/pt_BR
 
  Feito com :yellow_heart: pelas PyLadies [Dra. Natalia Coutouné](nat.coutoune@gmail.com), [MSc. Juliana Félix](juliana.felix@unesp.br) e [MSc. Wendy Abregu](tabregu70@gmail.com). Nossos agradecimentos especiais à [Dra. Bruna Pierick](https://www.vibtrainingandconferences.be/trainer/bruna-piereck) que nos ajudou a criar e ordenar o conhecimento para este tópico num treinamento prévio :blue_heart:. 
-
- Tetando com a Bea :)
